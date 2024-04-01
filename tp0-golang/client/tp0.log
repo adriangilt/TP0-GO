@@ -1,0 +1,737 @@
+2024/03/30 19:36:39 Soy un log
+2024/03/30 19:36:39 127.0.0.1
+2024/03/30 19:36:39 Ingrese los mensajes
+2024/03/30 19:36:42 hola
+2024/03/30 19:37:34 Soy un log
+2024/03/30 19:37:34 127.0.0.1
+2024/03/30 19:37:34 Ingrese los mensajes
+2024/03/30 19:37:36 hola
+2024/03/30 19:37:39 Soy un log
+2024/03/30 19:37:39 127.0.0.1
+2024/03/30 19:37:39 Ingrese los mensajes
+2024/03/30 19:37:40 hola 
+2024/03/30 19:37:46 Soy un log
+2024/03/30 19:37:46 127.0.0.1
+2024/03/30 19:37:46 Ingrese los mensajes
+2024/03/30 19:37:49 hola como eysas
+2024/03/30 19:44:22 Soy un log
+2024/03/30 19:44:22 127.0.0.1
+2024/03/30 19:44:22 respuesta del servidor: 200 OK
+2024/03/30 19:48:29 Soy un log
+2024/03/30 19:48:29 127.0.0.1
+2024/03/30 19:48:29 respuesta del servidor: 200 OK
+2024/03/31 20:16:26 Soy un log
+2024/03/31 20:16:26 127.0.0.1
+2024/03/31 20:16:26 paqute a enviar: {Valores:[]}
+2024/03/31 20:16:31 Soy un log
+2024/03/31 20:16:31 127.0.0.1
+2024/03/31 20:16:31 paqute a enviar: {Valores:[]}
+2024/03/31 20:16:55 Soy un log
+2024/03/31 20:16:55 127.0.0.1
+2024/03/31 20:16:55 respuesta del servidor: 200 OK
+2024/03/31 20:21:49 Soy un log
+2024/03/31 20:21:49 127.0.0.1
+2024/03/31 20:21:49 Ingrese los mensajes
+2024/03/31 20:21:56 hols
+2024/03/31 20:21:56 paqute a enviar: {Valores:[hols
+]}
+2024/03/31 20:21:56 respuesta del servidor: 200 OK
+2024/03/31 20:22:04 Soy un log
+2024/03/31 20:22:04 127.0.0.1
+2024/03/31 20:22:04 Ingrese los mensajes
+2024/03/31 20:22:07 hola
+2024/03/31 20:22:07 paqute a enviar: {Valores:[hola
+]}
+2024/03/31 20:22:07 respuesta del servidor: 200 OK
+2024/03/31 20:22:54 Soy un log
+2024/03/31 20:22:54 127.0.0.1
+2024/03/31 20:22:54 Ingrese los mensajes
+2024/03/31 20:22:56 hola
+2024/03/31 20:22:56 paquete a enviar: [hola
+]
+2024/03/31 20:22:56 respuesta del servidor: 200 OK
+2024/03/31 20:31:05 Soy un log
+2024/03/31 20:31:05 127.0.0.1
+2024/03/31 20:31:05 Ingrese un valor
+2024/03/31 20:31:08 paquete: [hola
+]
+2024/03/31 20:31:08 Desea ingresar otro valor? (s/n)
+2024/03/31 20:31:12 Ingrese un valor
+2024/03/31 20:31:15 paquete: [hola
+ como
+]
+2024/03/31 20:31:15 Desea ingresar otro valor? (s/n)
+2024/03/31 20:31:17 Ingrese un valor
+2024/03/31 20:31:23 paquete: [hola
+ como
+ n
+]
+2024/03/31 20:31:23 Desea ingresar otro valor? (s/n)
+2024/03/31 20:31:26 Ingrese un valor
+2024/03/31 20:31:40 paquete: [hola
+ como
+ n
+ f
+]
+2024/03/31 20:31:40 Desea ingresar otro valor? (s/n)
+2024/03/31 20:31:59 Ingrese un valor
+2024/03/31 20:32:02 paquete: [hola
+ como
+ n
+ f
+ ds
+]
+2024/03/31 20:32:02 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:02 Ingrese un valor
+2024/03/31 20:32:03 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+]
+2024/03/31 20:32:03 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:03 Ingrese un valor
+2024/03/31 20:32:03 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+]
+2024/03/31 20:32:03 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:03 Ingrese un valor
+2024/03/31 20:32:03 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+]
+2024/03/31 20:32:03 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:03 Ingrese un valor
+2024/03/31 20:32:04 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:04 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:04 Ingrese un valor
+2024/03/31 20:32:04 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:04 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:05 Ingrese un valor
+2024/03/31 20:32:05 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:05 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:05 Ingrese un valor
+2024/03/31 20:32:05 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:05 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:05 Ingrese un valor
+2024/03/31 20:32:05 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:05 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:05 Ingrese un valor
+2024/03/31 20:32:06 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:06 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:06 Ingrese un valor
+2024/03/31 20:32:06 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:06 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:06 Ingrese un valor
+2024/03/31 20:32:06 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:06 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:06 Ingrese un valor
+2024/03/31 20:32:06 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:06 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:54 Ingrese un valor
+2024/03/31 20:32:55 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:55 Desea ingresar otro valor? (s/n)
+2024/03/31 20:32:55 Ingrese un valor
+2024/03/31 20:32:56 paquete: [hola
+ como
+ n
+ f
+ ds
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 20:32:56 Desea ingresar otro valor? (s/n)
+2024/03/31 21:35:04 Soy un log
+2024/03/31 21:35:04 127.0.0.1
+2024/03/31 21:35:04 Ingrese un valor
+2024/03/31 21:35:07 paquete: [hola
+]
+2024/03/31 21:35:07 Desea ingresar otro valor? (s/n)
+2024/03/31 21:35:11 Ingrese un valor
+2024/03/31 21:35:13 paquete: [hola
+ d
+]
+2024/03/31 21:35:13 Desea ingresar otro valor? (s/n)
+2024/03/31 21:35:14 Ingrese un valor
+2024/03/31 21:35:16 paquete: [hola
+ d
+ nt
+]
+2024/03/31 21:35:16 Desea ingresar otro valor? (s/n)
+2024/03/31 21:35:16 Ingrese un valor
+2024/03/31 21:35:16 paquete: [hola
+ d
+ nt
+ t
+]
+2024/03/31 21:35:16 Desea ingresar otro valor? (s/n)
+2024/03/31 21:35:16 Ingrese un valor
+2024/03/31 21:35:17 paquete: [hola
+ d
+ nt
+ t
+ g
+]
+2024/03/31 21:35:17 Desea ingresar otro valor? (s/n)
+2024/03/31 21:35:17 Ingrese un valor
+2024/03/31 21:36:15 Soy un log
+2024/03/31 21:36:15 127.0.0.1
+2024/03/31 21:36:15 Ingrese un valor
+2024/03/31 21:36:18 paquete: [hola
+]
+2024/03/31 21:36:18 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:18 Ingrese un valor
+2024/03/31 21:36:19 paquete: [hola
+ 
+]
+2024/03/31 21:36:19 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:19 Ingrese un valor
+2024/03/31 21:36:19 paquete: [hola
+ 
+ 
+]
+2024/03/31 21:36:19 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:19 Ingrese un valor
+2024/03/31 21:36:20 paquete: [hola
+ 
+ 
+  
+]
+2024/03/31 21:36:20 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:20 Ingrese un valor
+2024/03/31 21:36:21 paquete: [hola
+ 
+ 
+  
+  
+]
+2024/03/31 21:36:21 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:21 Ingrese un valor
+2024/03/31 21:36:21 paquete: [hola
+ 
+ 
+  
+  
+  
+]
+2024/03/31 21:36:21 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:21 Ingrese un valor
+2024/03/31 21:36:22 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+]
+2024/03/31 21:36:22 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:22 Ingrese un valor
+2024/03/31 21:36:22 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+]
+2024/03/31 21:36:22 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:22 Ingrese un valor
+2024/03/31 21:36:22 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+]
+2024/03/31 21:36:22 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:22 Ingrese un valor
+2024/03/31 21:36:23 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+]
+2024/03/31 21:36:23 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:23 Ingrese un valor
+2024/03/31 21:36:23 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+]
+2024/03/31 21:36:23 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:23 Ingrese un valor
+2024/03/31 21:36:23 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+]
+2024/03/31 21:36:23 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:23 Ingrese un valor
+2024/03/31 21:36:24 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+]
+2024/03/31 21:36:24 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:24 Ingrese un valor
+2024/03/31 21:36:25 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+]
+2024/03/31 21:36:25 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:25 Ingrese un valor
+2024/03/31 21:36:25 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+]
+2024/03/31 21:36:25 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:25 Ingrese un valor
+2024/03/31 21:36:25 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+ 
+]
+2024/03/31 21:36:25 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:25 Ingrese un valor
+2024/03/31 21:36:25 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+ 
+ 
+]
+2024/03/31 21:36:25 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:25 Ingrese un valor
+2024/03/31 21:36:26 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 21:36:26 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:26 Ingrese un valor
+2024/03/31 21:36:26 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 21:36:26 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:26 Ingrese un valor
+2024/03/31 21:36:26 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 21:36:26 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:26 Ingrese un valor
+2024/03/31 21:36:26 paquete: [hola
+ 
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ hols
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+]
+2024/03/31 21:36:26 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:36:26 Ingrese un valor
+2024/03/31 21:37:01 Soy un log
+2024/03/31 21:37:01 127.0.0.1
+2024/03/31 21:37:01 Ingrese un valor
+2024/03/31 21:37:03 paquete: [goal
+]
+2024/03/31 21:37:03 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:37:03 Ingrese un valor
+2024/03/31 21:37:06 paquete: [goal
+ si
+]
+2024/03/31 21:37:06 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:37:06 Ingrese un valor
+2024/03/31 21:39:35 Soy un log
+2024/03/31 21:39:35 127.0.0.1
+2024/03/31 21:39:35 Ingrese un valor
+2024/03/31 21:39:37 paquete: [hola
+]
+2024/03/31 21:39:37 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:39:37 Ingrese un valor
+2024/03/31 21:39:38 Valores ingresados: [hola
+]
+2024/03/31 21:39:38 respuesta del servidor: 200 OK
+2024/03/31 21:40:02 Soy un log
+2024/03/31 21:40:02 127.0.0.1
+2024/03/31 21:40:02 Ingrese un valor
+2024/03/31 21:40:03 paquete: [hola
+]
+2024/03/31 21:40:03 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:40:03 Ingrese un valor
+2024/03/31 21:40:04 paquete: [hola
+ como
+]
+2024/03/31 21:40:04 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:40:04 Ingrese un valor
+2024/03/31 21:40:05 paquete: [hola
+ como
+ estas
+]
+2024/03/31 21:40:05 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:40:05 Ingrese un valor
+2024/03/31 21:40:06 Valores ingresados: [hola
+ como
+ estas
+]
+2024/03/31 21:40:06 respuesta del servidor: 200 OK
+2024/03/31 21:40:11 Soy un log
+2024/03/31 21:40:11 127.0.0.1
+2024/03/31 21:40:11 Ingrese un valor
+2024/03/31 21:40:13 Valores ingresados: []
+2024/03/31 21:40:13 respuesta del servidor: 200 OK
+2024/03/31 21:40:27 Soy un log
+2024/03/31 21:40:27 127.0.0.1
+2024/03/31 21:40:27 Ingrese un valor
+2024/03/31 21:40:30 Valores ingresados: []
+2024/03/31 21:40:30 respuesta del servidor: 200 OK
+2024/03/31 21:43:00 Soy un log
+2024/03/31 21:43:00 127.0.0.1
+2024/03/31 21:43:00 Ingrese un valor
+2024/03/31 21:43:02 paquete: [hola
+]
+2024/03/31 21:43:02 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:43:02 Ingrese un valor
+2024/03/31 21:43:05 paquete: [hola
+ como 
+]
+2024/03/31 21:43:05 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:43:05 Ingrese un valor
+2024/03/31 21:43:07 paquete: [hola
+ como 
+ estas
+]
+2024/03/31 21:43:07 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:43:07 Ingrese un valor
+2024/03/31 21:43:08 paquete: [hola
+ como 
+ estas
+  
+]
+2024/03/31 21:43:08 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:43:08 Ingrese un valor
+2024/03/31 21:43:09 Valores ingresados: [hola
+ como 
+ estas
+  
+]
+2024/03/31 21:43:09 respuesta del servidor: 200 OK
+2024/03/31 21:43:39 Soy un log
+2024/03/31 21:43:39 127.0.0.1
+2024/03/31 21:43:39 Ingrese un valor
+2024/03/31 21:43:40 paquete: [goal
+]
+2024/03/31 21:43:40 Desea ingresar otro valor? (presione Enter para continuar o espacio para terminar)
+2024/03/31 21:43:40 Ingrese un valor
+2024/03/31 21:43:41 Valores ingresados: [goal
+]
+2024/03/31 21:43:41 respuesta del servidor: 200 OK
+2024/03/31 21:44:28 Soy un log
+2024/03/31 21:44:28 127.0.0.1
+2024/03/31 21:44:28 Ingrese un valor
+2024/03/31 21:44:30 paquete: [hola
+]
+2024/03/31 21:44:30 Presione espacio para terminar
+2024/03/31 21:44:30 Ingrese un valor
+2024/03/31 21:44:32 Valores ingresados: %s [hola
+]
+2024/03/31 21:44:32 respuesta del servidor: 200 OK
